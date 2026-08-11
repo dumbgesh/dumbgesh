@@ -10,4 +10,4 @@ currently figuring out what to build next.
 > building anyway.
 
 connect w me:
-[email](mishradurgesh@gmail.com) · [linkedin](linkedin.com/in/dumbgesh) · [instagram](https://www.instagram.com/dumbgesh/)
+[email](mishradurgeshpranendra@gmail.com) · [linkedin](linkedin.com/in/dumbgesh) · [instagram](https://www.instagram.com/dumbgesh/)
