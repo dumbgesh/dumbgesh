@@ -1,16 +1,13 @@
-## Hi there 👋
+# hey, I'm Durgesh.
 
-<!--
-**dumbgesh/dumbgesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**second year data science student. finance entusiast. curious about everything.**
 
-Here are some ideas to get you started:
+I turn random ideas into projects —  
+mostly around **data, ML, software & finance.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently figuring out what to build next.
+
+> building anyway.
+
+connect w me:
+[email](mishradurgesh@gmail.com) · [linkedin](linkedin.com/in/dumbgesh) · [instagram](https://www.instagram.com/dumbgesh/)
