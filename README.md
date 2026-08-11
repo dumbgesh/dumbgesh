@@ -1,12 +1,13 @@
-# Hey, I'm Durgesh 👋
+# hey, I'm Durgesh.
 
-**Second-year Data Science student | Finance enthusiast | Curious about everything**
+**second year data science student. finance entusiast. curious about everything.**
 
-I turn random ideas into projects — mostly around **data, ML, software & finance.**
+I turn random ideas into projects —  
+mostly around **data, ML, software & finance.**
 
-Currently figuring out what to build next.
+currently figuring out what to build next.
 
-> Building anyway.
+> building anyway.
 
-### Connect with me:
+connect w me:
 [Email](mailto:mishradurgeshpranendra@gmail.com) · [LinkedIn](https://linkedin.com) · [Instagram](https://www.instagram.com/dumbgesh/)
