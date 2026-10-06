@@ -15,4 +15,4 @@ and pretending i have a plan.
 
 connect w me:
 
-[email](mailto:mishradurgeshpranendra@gmail.com) · [linkedin](https://linkedin.com) · [instagram](https://www.instagram.com/dumbgesh/)
+[email](mailto:mishradurgeshpranendra@gmail.com) · [linkedin](https://linkedin.com/in/dumbgesh) · [instagram](https://www.instagram.com/dumbgesh/)
