@@ -1,17 +1,16 @@
-# hey, i'm durgesh. 😛😛
+# hey, i'm durgesh. 😛
 
-**second year data science student. finance nerd. professional overthinker.**
+**second year data science student.**
 
-i turn random thoughts into  
-**data, ML, software & finance projects.**
+i like building things, understanding how they work,  
+and occasionally going down rabbit holes.
 
-sometimes they make sense.  
-sometimes they somehow end up on github.
+lately, i've been exploring **ai, ml engineering and software development.**
 
-currently figuring out what to build next  
-and pretending i have a plan.
+#### currently building
 
-> **building anyway.**
+- [**kya-ray**](https://github.com/dumbgesh/kya-ray) - a desktop ai assistant.
+- [**err**](https://github.com/dumbgesh/err-india) - air quality monitoring and forecasting for india.
 
 connect w me:
 
