@@ -11,4 +11,6 @@ lately, i've been exploring **ai, ml engineering and software development.**
 
 [**err-india**](https://github.com/dumbgesh/err-india) - air quality monitoring and forecasting for india.
 
-connect w me via [email](mailto:mishradurgeshpranendra@gmail.com), [linkedin](https://linkedin.com/in/dumbgesh) or [instagram](https://www.instagram.com/dumbgesh/)
+connect w **durgesh** via [email](mailto:mishradurgeshpranendra@gmail.com), [linkedin](https://linkedin.com/in/dumbgesh)
+
+and connect w **dumbgesh** via [instagram](https://www.instagram.com/dumbgesh/)
